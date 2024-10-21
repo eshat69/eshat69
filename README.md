@@ -3,7 +3,6 @@ Code | Creativity | Curiosity | Innovate
 
 **eshat69/eshat69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-![GitHub metrics](https://metrics.lecoq.io/eshat69)  
 
 - 🔭 I’m currently working on ML models to predict using Python
 - 🌱 I’m currently (tring to) learning machine learning algorithms, deep learning with neural networks, and data preprocessing techniques....
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me Gmail : eshatrahman137173@gmain.com  facebook : https://www.facebook.com/eshat0007 instragram :https://www.instagram.com/eshat_rahman/ linkedin https://www.linkedin.com/in/eshat-rahman-b18516154/...
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
+![GitHub metrics](https://metrics.lecoq.io/eshat69)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=eshat69)  
 
