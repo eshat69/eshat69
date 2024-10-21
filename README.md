@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/eshat69)  
