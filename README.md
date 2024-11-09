@@ -22,4 +22,5 @@ Here are some ideas to get you started:
   
 ![GitHub metrics](https://metrics.lecoq.io/eshat69)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=eshat69)  
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/eshat69/contributions?format=svg&private=false)  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69)](https://github.com/anuraghazra/github-readme-stats)
