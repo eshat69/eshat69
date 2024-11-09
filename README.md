@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true)  
 
 
-(https://metrics.lecoq.io/eshat69)![GitHub streak stats](https://streak-stats.demolab.com/?user=eshat69)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69)](https://github.com/anuraghazra/github-readme-stats) 
+!(https://metrics.lecoq.io/eshat69)![GitHub streak stats](https://streak-stats.demolab.com/?user=eshat69)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69)](https://github.com/anuraghazra/github-readme-stats) 
