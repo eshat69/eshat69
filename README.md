@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   
 ![GitHub metrics](https://metrics.lecoq.io/eshat69)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=eshat69)  
-
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/eshat69/contributions?format=svg&private=false)  
