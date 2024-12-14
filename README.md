@@ -33,6 +33,11 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
-###
+###  
+<h3>💻 GitHub Profile Stats</h3>
+
+<a href="https://github.com/eshat69">
+  <img alt="eshat69's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=eshat69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
 
 
