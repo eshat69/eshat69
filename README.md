@@ -17,7 +17,17 @@ Code | Creativity | Curiosity | Innovate
 - ⚡ Fun fact: chin tapak dam dam  ...
 
 ### GitHub Stats
+###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true)
 
@@ -33,14 +43,4 @@ Code | Creativity | Curiosity | Innovate
 
 ###
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
