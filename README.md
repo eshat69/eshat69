@@ -19,9 +19,6 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 
 <h3 align="left">🔥   My GitHub Stats :</h3> 
 
-###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69)](https://github.com/anuraghazra/github-readme-stats) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true)
 
 
 <br clear="both">
