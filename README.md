@@ -9,7 +9,6 @@ Code | Creativity | Curiosity | Innovate
 - 👯 I’m looking to collaborate on open-source ML projects, Kaggle competitions, or any AI research projects.
 - 🤔 I’m looking for help with optimizing ML models, understanding complex concepts like reinforcement learning, and contributing to large ML codebases.
 - 💬 Ask me about basic Python programming.
-- 📫 How to reach me: Gmail - eshatrahman137173@gmain.com
 - 💡 Driven by curiosity, learning every day
 - 🎨 Crafting solutions with a touch of creativity
 - 📫 How to reach me Gmail : eshatrahman137173@gmain.com 
