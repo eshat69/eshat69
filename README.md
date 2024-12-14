@@ -21,6 +21,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
   <img width="330" height="150" src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="GitHub Stats" />
   <img width="270" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
+
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
 
