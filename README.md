@@ -24,15 +24,10 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-
   <br> <!-- Line break for separation -->
-
   ### 🔝 Top Contributed Repo
-
   <img src="https://github-contributor-stats.vercel.app/api?username=eshat69&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-
   <br> <!-- Line break for separation -->
-
   <p align="center">
     <a href="https://stars.github.com/profiles/eshat69/">
       <img src="https://github.com/DenverCoder1/DenverCoder1/raw/main/.github/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632.gif" alt="GitHub Star 2023"/>
