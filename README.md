@@ -15,12 +15,13 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
 ###  
-<h3>💻 GitHub Profile Stats</h3>
-<div align="center">
-  <img width="290" height="130" src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=5" alt="Streak Stats"/> 
-  <img width="290" height="130" src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="GitHub Stats" />
-  <img width="230" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+<h3 style="text-align: center;">                💻 GitHub Profile Stats</h3>
+<div style="text-align: center;">
+  <img width="350" height="180" src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=5" alt="Streak Stats"/> 
+  <img width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="GitHub Stats" />
+  <img width="280" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
+
 
 
 <div align="center">
