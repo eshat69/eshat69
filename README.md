@@ -17,27 +17,37 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 ###  
 <h3>💻 GitHub Profile Stats</h3>
 <div align="center">
+  <!-- GitHub Profile Stats -->
   <img width="330" height="150" src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=5" alt="Streak Stats"/>
   <img width="330" height="150" src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="GitHub Stats" />
   <img width="270" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
+
 <div align="center">
+  <!-- Spotify Recently Played -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
   <br> <!-- Line break for separation -->
-  ### 🔝 Top Contributed Repo
+  <!-- Top Contributed Repo -->
+  <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=eshat69&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
   <br> <!-- Line break for separation -->
+  <!-- GitHub Star Badge -->
   <p align="center">
     <a href="https://stars.github.com/profiles/eshat69/">
       <img src="https://github.com/DenverCoder1/DenverCoder1/raw/main/.github/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632.gif" alt="GitHub Star 2023"/>
     </a>
   </p>
 </div>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-###
-<a href="https://github.com/eshat69">
-  <img alt="eshat69's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=eshat69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</a>
+<!-- Clear float for better alignment of following content -->
+<br style="clear:both;">
+<!-- Activity Graph and Snake Animation -->
+<div align="center">
+  <a href="https://github.com/eshat69">
+    <img alt="eshat69's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=eshat69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
 
 
