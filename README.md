@@ -46,7 +46,8 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
   </a>
 </div>
 <div style="text-align: center;">
-    <img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://raw.githubusercontent.com/username/repository/branch/path/to/file.svg)" alt="Snake animation" />
+    <img src="[![snake animation](https://github.com/eshat69/eshat69/blob/output/github-contribution-grid-snake2.svg)
+)" alt="Snake animation" />
 </div>
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
