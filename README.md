@@ -6,7 +6,9 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eshat69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eshat-rahman-b18516154//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/eshat0007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/eshat_rahman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@UR%C2%B7Eshat)  
-<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/6025256d-9f03-476d-ba2c-0faaa3f9ae9d">
+<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/edbe8c7f-84c2-4903-9eaf-4066f23c0e58">
+
+
 - 🔭 I’m currently working on ML models to predict using Python.
 - 🌱 I’m currently learning machine learning algorithms, deep learning with neural networks, and data preprocessing techniques.
 - 👯 I’m looking to collaborate on open-source ML projects, Kaggle competitions, or any AI research projects.
