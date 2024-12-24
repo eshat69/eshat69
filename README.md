@@ -15,19 +15,22 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
 ###  
-<h3 style="text-align: center;">💻 GitHub Profile Stats</h3>
-<div style="text-align: center;">
-  <img width="350" height="180" src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=5" alt="Streak Stats"/> 
-  <img width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="GitHub Stats" />
-  <img width="280" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&exclude_repo=github-readme-stats" alt="Top Languages" />
+<div align="center">
+  <h3>💻 GitHub Profile Stats</h3>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img width="350" height="180" src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=5" alt="Streak Stats"/> 
+    <img width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="GitHub Stats" />
+    <img width="280" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  </div>
+
+  <br> <!-- Line break for separation -->
+
+  <!-- Spotify Recently Played -->
+  <h3>🎵 Spotify Recently Played</h3>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
 </div>
 
 
-<div align="center">
-  <!-- Spotify Recently Played -->
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
-  <br> <!-- Line break for separation -->
-  <!-- Top Contributed Repo -->
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=eshat69&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
   <br> <!-- Line break for separation -->
