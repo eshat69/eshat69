@@ -14,8 +14,8 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate snake contribution graph
-        uses: Platane/snk@master
         id: snake-gif
+        uses: Platane/snk@master
         with:
           github_user_name: eshat69
           gif_out_path: dist/github-contribution-grid-snake.gif
@@ -28,8 +28,16 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
+          
+      - name: Notify on success
+        if: success()
+        run: echo "Snake graph generated successfully!"
+
+      - name: Notify on failure
+        if: failure()
+        run: echo "Snake graph generation failed. Check the logs for details."
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
