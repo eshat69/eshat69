@@ -1,0 +1,37 @@
+name: FR ehat69 Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          # Add any other setup commands needed
+
+      - name: Run tests
+        run: |
+          pytest
+          # Adjust this command based on your testing framework
+
+      # Add more steps as needed for deployment, notifications, etc.
+
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
