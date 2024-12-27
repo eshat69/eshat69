@@ -20,7 +20,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 - 📫 How to reach me Gmail : eshatrahman137173@gmain.com 
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
-###  
+##  
 <div align="center">
   <h3>💻 GitHub Profile Stats</h3>
   <div style="display: flex; justify-content: center; align-items: center;">
@@ -32,8 +32,6 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
   <h3>🎵 Spotify Recently Played</h3>
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
 </div>
-
-
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=eshat69&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
   <br> <!-- Line break for separation -->
