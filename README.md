@@ -17,7 +17,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 - 💬 Ask me about basic Python programming.
 - 💡 Driven by curiosity, learning every day
 - 🎨 Crafting solutions with a touch of creativity
-- 📫 How to reach me Gmail : eshatrahman137173@gmain.com 
+- 📫 How to reach me Gmail : eshatrahman137173@gmail.com 
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
 ##  
