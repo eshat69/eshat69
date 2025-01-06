@@ -12,10 +12,10 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 - 👯 I’m looking to collaborate on open-source ML projects, Kaggle competitions, or any AI research projects.
 - 🤔 I’m looking for help with optimizing ML models, understanding complex concepts like reinforcement learning, and contributing to large ML codebases.
 - 🗿 I'm a highly professional chircuit engineer.
-- 💬 Ask me about basic Python programming.
+- 💬 Ask me about basic Python programming.Blockchain.
 - 💡 Driven by curiosity, learning every day
 - 🎨 Crafting solutions with a touch of creativity
-- 📫 How to reach me Gmail : eshatrahman137173@gmail.com 
+- 📫 How to reach me Gmail: eshatrahman137173@gmail.com 
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
 ##  
@@ -42,7 +42,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
     </a>
   </p>
 </div>
-<!-- Clear float for better alignment of following content -->
+<!-- Clear float for better alignment of the following content -->
 <br style="clear:both;">
 <!-- Activity Graph and Snake Animation -->
 <div align="center">
