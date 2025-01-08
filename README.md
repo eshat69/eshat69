@@ -29,7 +29,6 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
     <img width="280" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=5&exclude_repo=github-readme-stats" alt="Top Languages" />
   </div>
 </div>
-
   <br> 
   <h3>🎵 Spotify Recently Played</h3>
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
