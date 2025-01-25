@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshat69&label=Profile%20views&color=0e75b6&style=flat" alt="eshat69" /> </p>
 
-
-
 # Hi there! Welcome to Eshat's GitHub profile! 👋
 Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile🌙| Thalassophile 🌊
 
