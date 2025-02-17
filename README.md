@@ -18,24 +18,18 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 - 📫 How to reach me Gmail: eshatrahman137173@gmail.com 
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
-### 📊 GitHub Profile Stats
+
+### 📊 GitHub Stats & Top Repos
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0;">
     <!-- Streak Stats -->
-    <img width="48%" src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/> 
+    <img src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/> 
     <!-- GitHub Stats -->
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
     <!-- Top Languages -->
-    <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages" />
-  </div>
-</div>
-
----
-
-### 🔝 Top Contributed Repos
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-    <img width="98%" src="https://github-contributor-stats.vercel.app/api?username=eshat69&limit=5&theme=radical&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages" />
+    <!-- Top Contributed Repos -->
+    <img src="https://github-contributor-stats.vercel.app/api?username=eshat69&limit=5&theme=radical&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repos" />
   </div>
 </div>
 ---
