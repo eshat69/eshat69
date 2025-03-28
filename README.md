@@ -11,13 +11,13 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 
 - 🔭 I’m currently working on ML models to predict using Python.
 - 🌱 I’m currently learning machine learning algorithms, deep learning with neural networks, and data preprocessing techniques.
-- 👯 I’m looking to collaborate on open-source ML projects, Kaggle competitions, or any AI research projects.
-- 🤔 I’m looking for help with optimizing ML models, understanding complex concepts like reinforcement learning, and contributing to large ML codebases.
+- 👯 I'm open to collaborating on open-source ML projects, Kaggle competitions, or AI research.
+- 🤔 I seek help with optimizing ML models, understanding reinforcement learning, and contributing to large ML codebases.
 - 🗿 I'm a highly professional chircuit engineer.
 - 💬 Ask me about basic Python programming.Blockchain.
 - 💡 Driven by curiosity, learning every day
 - 🎨 Crafting solutions with a touch of creativity
-- 📫 How to reach me Gmail: eshatrahman137173@gmail.com 
+- 📫  Reach out via Gmail: eshatrahman137173@gmail.com
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
 
