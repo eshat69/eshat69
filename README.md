@@ -50,8 +50,10 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40" alt="Kaggle" />
       <br><strong>Kaggle</strong>
     </td>
-    <td class="tech-icon">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+     <td class="tech-icon">
+      <div style="display: flex; align-items: flex-start;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      </div>
       <br><strong>MySQL</strong>
     </td>
     <td class="tech-icon">
