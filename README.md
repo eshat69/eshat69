@@ -53,8 +53,9 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
       <br><strong>GitHub</strong>
     </td>
     <td class="tech-icon">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Keras_logo.svg" alt="Keras" width="40" height="40" />
       <br><strong>Keras</strong>
+      <br>
+      <img src="https://miro.medium.com/v2/resize:fit:1400/0*R3aPA74guiMOhCLS.png" alt="Keras Dataset" width="90" height="35" style="margin-top:5px; border-radius:4px;" />
     </td>
   </tr>
 </table>
