@@ -18,9 +18,9 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 
 
 <table>
-  <tr>
+    <tr>
     <td class="tech-icon">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/C_Programming_Language.svg" alt="C" width="40" height="40" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRzZzZ3MDBnZnNjaDBoamo4emhucnlzZ2h0d3RiOWowcG12dGU1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.gif" alt="C" width="40" height="40" />
       <br><strong>C</strong>
     </td>
     <td class="tech-icon">
