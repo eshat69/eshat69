@@ -55,7 +55,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
       <br><strong>MySQL</strong>
     </td>
     <td class="tech-icon">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
       <br><strong>GitHub</strong>
     </td>
     <td class="tech-icon">
