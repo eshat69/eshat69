@@ -5,8 +5,72 @@
 # Hi there! Welcome to Eshat's GitHub profile! 👋
 Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile🌙| Thalassophile 🌊
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eshat69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eshat-rahman-b18516154//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/eshat0007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/eshat_rahman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@UR%C2%B7Eshat)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eshat69)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eshat-rahman-b18516154/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/eshat0007)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eshat_rahman/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@UR%C2%B7Eshat)
+
 <img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/edbe8c7f-84c2-4903-9eaf-4066f23c0e58">
+<div align="left">
+<div align="left">
+
+<style>
+  .tech-icon img {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .tech-icon img:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 8px rgba(0, 255, 255, 0.7);
+  }
+</style>
+
+<table>
+  <tr>
+    <td class="tech-icon">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/C_Programming_Language.svg" alt="C" width="40" height="40" />
+      <br><strong>C</strong>
+    </td>
+    <td class="tech-icon">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="40" height="40" />
+      <br><strong>C++</strong>
+    </td>
+    <td class="tech-icon">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+      <br><strong>Python</strong>
+    </td>
+    <td class="tech-icon">
+      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" />
+      <br><strong>TensorFlow</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="tech-icon">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40" alt="Kaggle" />
+      <br><strong>Kaggle</strong>
+    </td>
+    <td class="tech-icon">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td class="tech-icon">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td class="tech-icon">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Keras_logo.svg" alt="Keras" width="40" height="40" />
+      <br><strong>Keras</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
 
 
 - 🔭 I’m currently working on ML models to predict using Python.
