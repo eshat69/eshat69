@@ -15,15 +15,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 <div align="left">
 
 
-<style>
-  .tech-icon img {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  .tech-icon img:hover {
-    transform: scale(1.2);
-    box-shadow: 0 0 8px rgba(0, 255, 255, 0.7);
-  }
-</style>
+
 
 <table>
   <tr>
