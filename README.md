@@ -11,7 +11,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@UR%C2%B7Eshat)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'>](https://t.me/eshat07)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='Kaggle' height='40'>](https://www.kaggle.com/eshatrahman)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg' alt='Udemy' height='40'>](https://www.udemy.com/user/eshat-rahman/)
 
 <img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/edbe8c7f-84c2-4903-9eaf-4066f23c0e58">
 <div align="left">
