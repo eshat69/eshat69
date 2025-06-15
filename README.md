@@ -64,9 +64,6 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 
 
 
-
-
-
 - 🔭 I’m currently working on ML models to predict using Python.
 - 🌱 I’m currently learning machine learning algorithms, deep learning with neural networks, and data preprocessing techniques.
 - 👯 I'm open to collaborating on open-source ML projects, Kaggle competitions, or AI research.
