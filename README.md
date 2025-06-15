@@ -16,8 +16,6 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 <div align="left">
 
 
-
-
 <table>
     <tr>
     <td class="tech-icon">
