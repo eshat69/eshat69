@@ -14,8 +14,6 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 
 <img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/edbe8c7f-84c2-4903-9eaf-4066f23c0e58">
 <div align="left">
-
-
 <table>
     <tr>
     <td class="tech-icon">
