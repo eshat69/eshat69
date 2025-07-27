@@ -81,7 +81,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
     <!-- Top Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshat69&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages" />
     <!-- Top Contributed Repos -->
-    <img src="https://github-contributor-stats.vercel.app/api?username=eshat69&limit=5&theme=radical&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repos" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=eshat69&limit=5&theme=radical&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repos"/>
   </div>
 </div>
 <!-- Line break for separation -->
