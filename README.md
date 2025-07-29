@@ -35,6 +35,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
     </td>
   </tr>
 
+
   <tr>
     <td class="tech-icon">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="40" height="40" alt="Kaggle" />
