@@ -107,5 +107,9 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 </div>
 
 <div style="text-align: center;"> </div>
+<div align="center">
+  <code>[▉▉▉▉▉▉▉▉▉▉▉▉░░] 89% Accuracy</code>
+</div align="center">
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
 
