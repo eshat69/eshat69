@@ -96,11 +96,17 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 <!-- Clear float for better alignment of the following content -->
 <br style="clear:both;">
 <!-- Activity Graph and Snake Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=🚀+ML+Researcher+in+Progress...;⚡+Building+Intelligent+Systems;✨+Turning+Data+into+Sparks;" alt="Typing SVG" />
+</p>
 <div align="center">
   <a href="https://github.com/eshat69">
-    <img alt="eshat69's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=eshat69&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <img alt="eshat69's Activity Graph" 
+         src="https://github-readme-activity-graph.vercel.app/graph/?username=eshat69&bg_color=0D1117&color=58A6FF&line=238636&point=7EE787&area=true&hide_border=true" />
   </a>
 </div>
+
+
 <div style="text-align: center;">
 </div>
 
