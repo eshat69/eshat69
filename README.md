@@ -97,7 +97,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 <br style="clear:both;">
 <!-- Activity Graph and Snake Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=🚀+ML+Researcher+in+Progress...;⚡+Building+Intelligent+Systems;✨+Turning+Data+into+Sparks;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=🎓+BCS+Student+%40+University;📚+Exploring+Machine+Learning;💻+Learning+to+build+intelligent+systems;🛠️+Currently+debugging+my+future...;" alt="Typing SVG" />
 </p>
 <div align="center">
   <a href="https://github.com/eshat69">
