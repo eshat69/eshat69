@@ -60,6 +60,10 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 </table>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=🎓+CSE+Student;🤖+AI+%26+Machine+Learning+Learner;💻+Python,+C,+C%2B%2B,+MySQL,+Assembly;✨+Prompt+Engineering+Enthusiast+Critical+Thinker..;🚀+Building+Projects+%26+Learning...;" alt="Typing SVG" />
+</p>
+
 - 🔭 I’m currently working on ML models to predict using Python.
 - 🌱 I’m currently learning machine learning algorithms, deep learning with neural networks, and data preprocessing techniques.
 - 👯 I'm open to collaborating on open-source ML projects, Kaggle competitions, or AI research.
@@ -96,9 +100,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 <!-- Clear float for better alignment of the following content -->
 <br style="clear:both;">
 <!-- Activity Graph and Snake Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=🎓+BCS+Student+%40+University;📚+Exploring+Machine+Learning;💻+Learning+to+build+intelligent+systems;🛠️+Currently+debugging+my+future...;" alt="Typing SVG" />
-</p>
+
 <div align="center">
   <a href="https://github.com/eshat69">
     <img alt="eshat69's Activity Graph" 
