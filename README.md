@@ -61,7 +61,7 @@ Code 🖥️ | Creativity 🎨 | Curiosity 🌌 | Innovate 🚀 | Selenophile�
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=🎓+CSE+Student;🤖+AI+%26+Machine+Learning+Learner;💻+Python,+C,+C%2B%2B,+MySQL,+Assembly;✨+Prompt+Engineering+Enthusiast+Critical+Thinker..;🚀+Building+Projects+%26+Learning...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=🎓+CSE+Student;🤖+AI+%26+Machine+Learning+Learner;💻+Python,+C,+C%2B%2B,+MySQL,+mongoDb,+Assembly;✨+Prompt+Engineering+Enthusiast+Critical+Thinker..;🚀+Building+Projects+%26+Learning...;" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently working on ML models to predict using Python.
