@@ -67,7 +67,6 @@
 </p>
 
 - 🔭 I’m currently working on ML models to predict using Python.
-- 🤔 I seek help with optimizing ML models, understanding reinforcement learning, and contributing to large ML codebases.
 - 💬 Ask me about basic Python programming.Blockchain.
 - 💡 Driven by curiosity, learning every day
 - 🎨 Crafting solutions with a touch of creativity
