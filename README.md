@@ -60,7 +60,7 @@
     </td>
     <td class="tech-icon">
       <br>
-      <img src="https://www.google.com/search?q=pytorch+svg+logo&oq=pytorch+svg&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIKCAIQABgKGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjINCAYQABiGAxiABBiKBTINCAcQABiGAxiABBiKBTIKCAgQABiABBiiBNIBCjExNzQ4ajBqMTWoAgiwAgHxBdtmAUCdpVjR&sourceid=chrome&ie=UTF-8#sv=CAMSZxowKg5xczZ6STZmN01TdU9QTTIOcXM2ekk2ZjdNU3VPUE06DjBBbi13bWxMVFZvTDJNIAQqLwobX1dCSE1hYkhWT003ZDJyb1B0S3Jac0FzXzQ0Eg5xczZ6STZmN01TdU9QTRgAMAEYByDw_5_oB0oIEAEYASABKAE" alt="pytorch" width="40" height="40"  />
+      <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg " alt="pytorch" width="40" height="40"  />
       <br><strong>pytorch</strong>
     </td>
     <td class="tech-icon">
