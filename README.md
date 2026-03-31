@@ -55,8 +55,8 @@
       <br><strong>MySQL</strong>
     </td>
     <td class="tech-icon">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
-      <br><strong>GitHub</strong>
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
+      <br><strong>Django</strong>
     </td>
     <td class="tech-icon">
       <br><strong>Keras</strong>
