@@ -55,6 +55,11 @@
       <br><strong>MySQL</strong>
     </td>
     <td class="tech-icon">
+    <br><strong>MongoDB</strong>
+    <br>
+    <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40" />
+  </td>
+    <td class="tech-icon">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
       <br><strong>Django</strong>
     </td>
@@ -63,11 +68,6 @@
       <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg " alt="pytorch" width="40" height="40"  />
       <br><strong>pytorch</strong>
     </td>
-    <td class="tech-icon">
-  <br><strong>MongoDB</strong>
-  <br>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="35" height="35" style="margin-top:5px; border-radius:4px;" />
-</td>
   </tr>
 </table>
 </div>
