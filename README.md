@@ -64,10 +64,10 @@
       <br><strong>Django</strong>
     </td>
     <td class="tech-icon">
-      <br>
-      <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg " alt="pytorch" width="40" height="40"  />
-      <br><strong>pytorch</strong>
-    </td>
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
+    <br><strong>pytorch</strong>
+  </td>
   </tr>
 </table>
 </div>
