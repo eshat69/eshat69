@@ -59,9 +59,9 @@
       <br><strong>Django</strong>
     </td>
     <td class="tech-icon">
-      <br><strong>Keras</strong>
       <br>
-      <img src="https://miro.medium.com/v2/resize:fit:1400/0*R3aPA74guiMOhCLS.png" alt="Keras Dataset" width="90" height="35" style="margin-top:5px; border-radius:4px;" />
+      <img src="https://uxwing.com/pytorch-icon/" alt="pytorch" width="40" height="40"  />
+      <br><strong>pytorch</strong>
     </td>
     <td class="tech-icon">
   <br><strong>MongoDB</strong>
