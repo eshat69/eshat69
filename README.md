@@ -2,7 +2,7 @@
                
 # Hi there! Welcome to Eshat's GitHub profile! 👋
 
--  | Code & Curiosity 🚀 | Moonlit thinker ✨ | Creativity 🎨
+-   Code & Curiosity 🚀 | Creativity 🎨
   
           
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]( https://github.com/eshat69)
