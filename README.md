@@ -32,10 +32,9 @@
       <br><strong>Python</strong>
     </td>
     <td class="tech-icon">
-      <br><strong>Java</strong>
     <br>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="40" height="40"  />
-      <br><strong>Python</strong>
+      <br><strong>Java</strong>
   </td>
       <td class="tech-icon">
       <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40" />
