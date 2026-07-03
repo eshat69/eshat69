@@ -79,7 +79,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <!-- Left Column: Your Bio Details -->
-    <td width="60%" valign="top" style="border: none; padding-right: 20px;">
+    <td width="70%" valign="top" style="border: none; padding-right: 50px;">
       <h3>🚀 About Me</h3>
       <ul>
         <li>🔭 I’m currently working on ML models to predict using Python.</li>
@@ -92,7 +92,7 @@
       </ul>
     </td>
     <!-- Right Column: Your FIFA Developer Card -->
-    <td width="40%" align="center" valign="middle" style="border: none;">
+    <td width="30%" align="center" valign="middle" style="border: none;">
       <img src="https://gitfut.com/eshat69.png" width="250" alt="Eshat's GitHub FIFA Card">
     </td>
   </tr>
