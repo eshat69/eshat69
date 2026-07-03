@@ -84,8 +84,12 @@
 - 😄 Pronouns eshat ...
 - ⚡ Fun fact: chin tapak dam dam  ...
 
+<div align="right">
+  <img src="https://gitfut.com/eshat69.png" width="300" alt="Eshat's GitHub FIFA Card">
+</div>
+
 ### 📊 GitHub Stats & Top Repos
-<div align="center">
+<div align="left">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0;">
     <!-- Streak Stats -->
     <img src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/> 
