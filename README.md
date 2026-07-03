@@ -93,7 +93,7 @@
     </td>
     <!-- Right Column: Your FIFA Developer Card -->
     <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://gitfut.com/eshat69.png" width="280" alt="Eshat's GitHub FIFA Card">
+      <img src="https://gitfut.com/eshat69.png" width="250" alt="Eshat's GitHub FIFA Card">
     </td>
   </tr>
 </table>
