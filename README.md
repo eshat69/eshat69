@@ -76,17 +76,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=🎓+CSE+Student;🤖+AI+%26+Machine+Learning+Learner;💻+Python,+C,+C%2B%2B,+MySQL,+mongoDb,+Assembly;✨+Enthusiast+Critical+Thinker..;🚀+Building+Projects+%26+Learning...;" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on ML models to predict using Python.
-- 💬 Ask me about basic Python programming.Blockchain.
-- 💡 Driven by curiosity, learning every day
-- 🎨 Crafting solutions with a touch of creativity
-- 📫  Reach out via Gmail: eshatrahman137173@gmail.com
-- 😄 Pronouns eshat ...
-- ⚡ Fun fact: chin tapak dam dam  ...
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- Left Column: Your Bio Details -->
+    <td width="60%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently working on ML models to predict using Python.</li>
+        <li>💬 Ask me about basic Python programming and Blockchain.</li>
+        <li>💡 Driven by curiosity, learning every day.</li>
+        <li>🎨 Crafting solutions with a touch of creativity.</li>
+        <li>📫 Reach out via Gmail: <a href="mailto:eshatrahman137173@gmail.com">eshatrahman137173@gmail.com</a></li>
+        <li>😄 Pronouns: eshat</li>
+        <li>⚡ Fun fact: chin tapak dam dam ...</li>
+      </ul>
+    </td>
+    <!-- Right Column: Your FIFA Developer Card -->
+    <td width="40%" align="center" valign="middle" style="border: none;">
+      <img src="https://gitfut.com/eshat69.png" width="280" alt="Eshat's GitHub FIFA Card">
+    </td>
+  </tr>
+</table>
 
-<div align="right">
-  <img src="https://gitfut.com/eshat69.png" width="300" alt="Eshat's GitHub FIFA Card">
-</div>
 
 ### 📊 GitHub Stats & Top Repos
 <div align="left">
