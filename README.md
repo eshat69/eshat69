@@ -63,12 +63,12 @@
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
       <br><strong>Django</strong>
     </td>
-    <!-- <td class="tech-icon">
+    <td class="tech-icon">
     <br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
     <br><strong>pytorch</strong>
   </td>
-  </tr> -->
+  </tr>
 </table>
 </div>
 
