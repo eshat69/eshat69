@@ -82,8 +82,9 @@
     <td width="70%" valign="top" style="border: none; padding-right: 50px;">
       <h3>🚀 About Me</h3>
       <ul>
-        <li>🔭 I’m currently working on ML models to predict using Python.</li>
+        <li>🔬 Currently working with PyTorch, Deep Learning, Medical Image Analysis, and Object Detection.</li>
         <li>💬 Ask me about basic Python programming and Blockchain.</li>
+        <li>🧪 Enjoy experimenting with models, analyzing their performance, and understanding **why they succeed or fail**.</li>
         <li>💡 Driven by curiosity, learning every day.</li>
         <li>🎨 Crafting solutions with a touch of creativity.</li>
         <li>📫 Reach out via Gmail: <a href="mailto:eshatrahman137173@gmail.com">eshatrahman137173@gmail.com</a></li>
