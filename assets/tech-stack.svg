@@ -3,37 +3,82 @@
   <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="460" gradientUnits="userSpaceOnUse">
     <stop stop-color="#050A14"/><stop offset="1" stop-color="#02050A"/>
   </linearGradient>
-  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(270 235) rotate(90) scale(125)">
-    <stop stop-color="#00D9FF" stop-opacity=".85"/><stop offset="1" stop-color="#0057B8" stop-opacity="0"/>
+
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+    gradientTransform="translate(270 235) rotate(90) scale(145)">
+    <stop stop-color="#CC5500" stop-opacity=".9">
+      <animate attributeName="stop-color"
+        values="#CC5500;#6B8E23;#CC5500;#6B8E23;#CC5500"
+        dur="7s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="1" stop-color="#6B8E23" stop-opacity="0"/>
   </radialGradient>
+
+  <linearGradient id="orb" x1="225" y1="190" x2="315" y2="280">
+    <stop stop-color="#CC5500">
+      <animate attributeName="stop-color"
+        values="#CC5500;#6B8E23;#CC5500;#6B8E23;#CC5500"
+        dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset=".5" stop-color="#6B8E23">
+      <animate attributeName="stop-color"
+        values="#6B8E23;#CC5500;#6B8E23;#CC5500;#6B8E23"
+        dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="1" stop-color="#CC5500">
+      <animate attributeName="stop-color"
+        values="#CC5500;#6B8E23;#CC5500;#6B8E23;#CC5500"
+        dur="6s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+
   <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
     <circle cx="2" cy="2" r="1" fill="#20354A" fill-opacity=".45"/>
   </pattern>
+
   <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
     <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".45"/>
   </filter>
+
+  <filter id="orbGlow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
 </defs>
 
-<rect x="2" y="2" width="1196" height="456" rx="22" fill="url(#bg)" stroke="#00A8FF" stroke-opacity=".65" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="456" rx="22"
+  fill="url(#bg)" stroke="#00A8FF" stroke-opacity=".65" stroke-width="2"/>
 <rect x="3" y="3" width="1194" height="454" rx="21" fill="url(#dots)"/>
-
-<!-- Header -->
-<text x="38" y="55" fill="#00E5FF" font-family="monospace" font-size="14" font-weight="700" letter-spacing="4"> </text>
-<text x="38" y="92" fill="#EAF7FF" font-family="Arial, sans-serif" font-size="27" font-weight="700"> </text>
 
 <!-- Left visual -->
 <circle cx="270" cy="235" r="145" fill="url(#glow)"/>
-<g opacity=".55" stroke="#87c1d1" stroke-width="1.5">
-  <ellipse cx="270" cy="235" rx="155" ry="72" transform="rotate(25 270 235)"/>
-  <ellipse cx="270" cy="235" rx="155" ry="72" transform="rotate(-25 270 235)"/>
-  <ellipse cx="270" cy="235" rx="155" ry="72" transform="rotate(90 270 235)"/>
-</g>
-<circle cx="270" cy="235" r="56" fill="#09a1ec" fill-opacity=".18" stroke="#00C8FF" stroke-width="2" filter="url(#shadow)"/>
-<circle cx="270" cy="235" r="43" fill="#008CFF"/>
-<text x="270" y="247" text-anchor="middle" fill="white" font-family="monospace" font-size="30" font-weight="700">&lt;/&gt;</text>
 
-<!-- orbit nodes -->
-<!-- orbit nodes -->
+<!-- Orbit rings -->
+<g opacity=".62" stroke-width="1.5">
+  <ellipse cx="270" cy="235" rx="155" ry="72" transform="rotate(25 270 235)" stroke="#00C8FF">
+    <animate attributeName="stroke" values="#00C8FF;#8A2BE2;#00C8FF" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="270" cy="235" rx="155" ry="72" transform="rotate(-25 270 235)" stroke="#8A2BE2">
+    <animate attributeName="stroke" values="#8A2BE2;#00C8FF;#FF3CAC;#8A2BE2" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="270" cy="235" rx="155" ry="72" transform="rotate(90 270 235)" stroke="#00E5FF">
+    <animate attributeName="stroke" values="#00E5FF;#FF3CAC;#8A2BE2;#00E5FF" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+</g>
+
+<!-- Dynamic center orb -->
+<circle cx="270" cy="235" r="58" fill="#CC5500" fill-opacity=".16"
+  stroke="#6B8E23" stroke-width="2" filter="url(#shadow)">
+  <animate attributeName="stroke"
+    values="#6B8E23;#CC5500;#6B8E23;#CC5500;#6B8E23"
+    dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="270" cy="235" r="43" fill="url(#orb)" filter="url(#orbGlow)"/>
+<text x="270" y="247" text-anchor="middle" fill="white"
+  font-family="monospace" font-size="30" font-weight="700">&lt;/&gt;</text>
+
+<!-- Orbit nodes -->
 <g font-family="Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">
   <circle cx="120" cy="145" r="20" fill="#050A14" stroke="#F59E0B"/>
   <text x="120" y="149" fill="#bb91b5">Py</text>
@@ -47,74 +92,79 @@
   <circle cx="435" cy="305" r="20" fill="#050A14" stroke="#F59E0B"/>
   <text x="435" y="309" fill="#bb91b5">Sql</text>
 
-  <!-- Java moved slightly downward -->
   <circle cx="270" cy="415" r="20" fill="#050A14" stroke="#F59E0B"/>
-  <text x="270" y="415" fill="#bb91b5">Java</text>
+  <text x="270" y="419" fill="#bb91b5">Java</text>
 
-  <!-- ipynb moved slightly upward -->
   <circle cx="270" cy="55" r="20" fill="#050A14" stroke="#F59E0B"/>
-  <text x="270" y="54" fill="#bb91b5">ipynb</text>
+  <text x="270" y="59" fill="#bb91b5">ipynb</text>
 </g>
 
 <!-- Divider -->
 <line x1="520" y1="105" x2="520" y2="410" stroke="#20354A"/>
 
 <!-- Section labels -->
-<g font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">
-  <text x="555" y="132" fill="#f1f7aa">ML / AI</text>
-  <text x="555" y="208" fill="#f1f7aa"> Interpretability</text>
-  <text x="555" y="284" fill="#f1f7aa">Web Frameworks &amp; DATA</text>
-  <text x="555" y="360" fill="#f1f7aa">TOOLS &amp; WORKFLOW</text>
+<g font-family="monospace" font-size="15" font-weight="700" letter-spacing="2" fill="#f1f7aa">
+  <text x="555" y="132">ML / AI</text>
+  <text x="555" y="208">Interpretability</text>
+  <text x="555" y="284">Web Frameworks &amp; DATA</text>
+  <text x="555" y="360">TOOLS &amp; WORKFLOW</text>
 </g>
 
-<!-- pills -->
-<g font-family="Arial, sans-serif" font-size="13" font-weight="600">
+<!-- Pills -->
+<g font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#E8F6FF" stroke="#bb91b5">
   <!-- ML -->
-  <rect x="555" y="145" width="82" height="34" rx="8" fill="#0A1424" stroke="#bb91b5"/><text x="596" y="167" text-anchor="middle" fill="#e8f6ff">NLP</text>
-  <rect x="638" y="145" width="105" height="34" rx="8"
-      fill="#0A1424" stroke="#bb91b5"/>
-<text x="690.5" y="167" text-anchor="middle" fill="#E8F6FF">Scikit-learn</text>
-  <rect x="751" y="145" width="82" height="34" rx="8"
-      fill="#0A1424" stroke="#bb91b5"/>
-<text x="792" y="167" text-anchor="middle" fill="#E8F6FF">PyTorch</text>
-  <rect x="841" y="145" width="125" height="34" rx="8"
-      fill="#0A1424" stroke="#bb91b5"/>
-<text x="903.5" y="167" text-anchor="middle" fill="#E8F6FF">Computer Vision</text>
-  <rect x="974" y="145" width="105" height="34" rx="8"
-      fill="#0A1424" stroke="#bb91b5"/>
-<text x="1026.5" y="167" text-anchor="middle" fill="#E8F6FF">TensorFlow</text>
+  <rect x="555" y="145" width="82" height="34" rx="8" fill="#0A1424"/>
+  <text x="596" y="167" text-anchor="middle" stroke="none">NLP</text>
+
+  <rect x="638" y="145" width="105" height="34" rx="8" fill="#0A1424"/>
+  <text x="690.5" y="167" text-anchor="middle" stroke="none">Scikit-learn</text>
+
+  <rect x="751" y="145" width="82" height="34" rx="8" fill="#0A1424"/>
+  <text x="792" y="167" text-anchor="middle" stroke="none">PyTorch</text>
+
+  <rect x="841" y="145" width="125" height="34" rx="8" fill="#0A1424"/>
+  <text x="903.5" y="167" text-anchor="middle" stroke="none">Computer Vision</text>
+
+  <rect x="974" y="145" width="105" height="34" rx="8" fill="#0A1424"/>
+  <text x="1026.5" y="167" text-anchor="middle" stroke="none">TensorFlow</text>
 
   <!-- Interpretability -->
-  <rect x="555" y="221" width="108" height="34" rx="8" fill="#071326" stroke="#bb91b5"/><text x="609" y="243" text-anchor="middle" fill="#E8F6FF">SHAP </text>
-  <rect x="671" y="221" width="103" height="34" rx="8" fill="#071326" stroke="#bb91b5"/><text x="722" y="243" text-anchor="middle" fill="#E8F6FF">LIME </text>
-  <rect x="782" y="221" width="82" height="34" rx="8" fill="#071326" stroke="#bb91b5"/><text x="823" y="243" text-anchor="middle" fill="#E8F6FF">Grad-CAM</text>
-  <rect x="872" y="221" width="55" height="34" rx="8"
-      fill="#071326" stroke="#bb91b5"/>
-<text x="899.5" y="243" text-anchor="middle" fill="#E8F6FF">LIT</text>
+  <rect x="555" y="221" width="108" height="34" rx="8" fill="#071326"/>
+  <text x="609" y="243" text-anchor="middle" stroke="none">SHAP</text>
 
-  <!-- Web Frameworks -->
-  <rect x="555" y="297" width="82" height="34" rx="8"
-      fill="#06151F" stroke="#bb91b5"/>
-<text x="596" y="319" text-anchor="middle" fill="#E8F6FF">FastAPI</text>
+  <rect x="671" y="221" width="103" height="34" rx="8" fill="#071326"/>
+  <text x="722" y="243" text-anchor="middle" stroke="none">LIME</text>
 
-<rect x="645" y="297" width="72" height="34" rx="8"
-      fill="#06151F" stroke="#bb91b5"/>
-<text x="681" y="319" text-anchor="middle" fill="#E8F6FF">Flask</text>
+  <rect x="782" y="221" width="82" height="34" rx="8" fill="#071326"/>
+  <text x="823" y="243" text-anchor="middle" stroke="none">Grad-CAM</text>
 
-<rect x="725" y="297" width="88" height="34" rx="8"
-      fill="#06151F" stroke="#bb91b5"/>
-<text x="769" y="319" text-anchor="middle" fill="#E8F6FF">Streamlit</text>
+  <rect x="872" y="221" width="55" height="34" rx="8" fill="#071326"/>
+  <text x="899.5" y="243" text-anchor="middle" stroke="none">LIT</text>
 
+  <!-- Web -->
+  <rect x="555" y="297" width="82" height="34" rx="8" fill="#06151F"/>
+  <text x="596" y="319" text-anchor="middle" stroke="none">FastAPI</text>
 
-  <!-- tools -->
-  <rect x="555" y="373" width="67" height="34" rx="8" fill="#0A1118" stroke="#bb91b5"/><text x="588" y="395" text-anchor="middle" fill="#E8F6FF">Git</text>
-  <rect x="630" y="373" width="79" height="34" rx="8" fill="#0A1118" stroke="#bb91b5"/><text x="669" y="395" text-anchor="middle" fill="#E8F6FF">GitHub</text>
-  <rect x="717" y="373" width="85" height="34" rx="8" fill="#0A1118" stroke="#bb91b5"/><text x="759" y="395" text-anchor="middle" fill="#E8F6FF">Jupyter</text>
-  <rect x="814" y="373" width="118" height="34" rx="8"
-      fill="#0A1118" stroke="#bb91b5"/>
-<text x="873" y="395" text-anchor="middle" fill="#E8F6FF">Hugging Face</text>
-  <rect x="940" y="373" width="78" height="34" rx="8"
-      fill="#0A1118" stroke="#bb91b5"/>
-<text x="979" y="395" text-anchor="middle" fill="#E8F6FF">LaTeX</text>
+  <rect x="645" y="297" width="72" height="34" rx="8" fill="#06151F"/>
+  <text x="681" y="319" text-anchor="middle" stroke="none">Flask</text>
+
+  <rect x="725" y="297" width="88" height="34" rx="8" fill="#06151F"/>
+  <text x="769" y="319" text-anchor="middle" stroke="none">Streamlit</text>
+
+  <!-- Tools -->
+  <rect x="555" y="373" width="67" height="34" rx="8" fill="#0A1118"/>
+  <text x="588" y="395" text-anchor="middle" stroke="none">Git</text>
+
+  <rect x="630" y="373" width="79" height="34" rx="8" fill="#0A1118"/>
+  <text x="669" y="395" text-anchor="middle" stroke="none">GitHub</text>
+
+  <rect x="717" y="373" width="85" height="34" rx="8" fill="#0A1118"/>
+  <text x="759" y="395" text-anchor="middle" stroke="none">Jupyter</text>
+
+  <rect x="814" y="373" width="118" height="34" rx="8" fill="#0A1118"/>
+  <text x="873" y="395" text-anchor="middle" stroke="none">Hugging Face</text>
+
+  <rect x="940" y="373" width="78" height="34" rx="8" fill="#0A1118"/>
+  <text x="979" y="395" text-anchor="middle" stroke="none">LaTeX</text>
 </g>
 </svg>
