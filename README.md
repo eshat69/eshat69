@@ -99,7 +99,7 @@
 </table>
 
 
-### 📊 GitHub Stats & Top Repos
+
 <div align="left">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0;">
     <!-- Streak Stats -->
