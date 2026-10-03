@@ -83,7 +83,8 @@
       <h3>🚀 About Me</h3>
       <ul>
         <li>🔬 Currently working with PyTorch, Deep Learning, Medical Image Analysis, and Object Detection.</li>
-        <li>💬 Ask me about basic Python programming and Blockchain.</li>
+        <li>💬 
+          Ask me about Predictive Analytics, Recommendation Systems, Sentiment Analysis, Image enhancement.</li>
         <li>🧪 Enjoy experimenting with models, analyzing their performance, and understanding why they succeed or fail.</li>
         <li>💡 Driven by curiosity, learning every day.</li>
         <li>🎨 Crafting solutions with a touch of creativity.</li>
