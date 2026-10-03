@@ -123,12 +123,7 @@
 <br style="clear:both;">
 <!-- Activity Graph and Snake Animation -->
 
-<div align="center">
-  <a href="https://github.com/eshat69">
-    <img alt="eshat69's Activity Graph" 
-         src="https://github-readme-activity-graph.vercel.app/graph/?username=eshat69&bg_color=0D1117&color=58A6FF&line=238636&point=7EE787&area=true&hide_border=true" />
-  </a>
-</div>
+
 
 <div style="text-align: center;"> </div>
 <div align="center">
