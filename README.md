@@ -84,10 +84,11 @@
       <ul>
         <li>🔬 Currently working with PyTorch, Deep Learning, Medical Image Analysis, and Object Detection.</li>
         <li>💬 Ask me about basic Python programming and Blockchain.</li>
-        <li>🧪 Enjoy experimenting with models, analyzing their performance, and understanding **why they succeed or fail**.</li>
+        <li>🧪 Enjoy experimenting with models, analyzing their performance, and understanding why they succeed or fail.</li>
         <li>💡 Driven by curiosity, learning every day.</li>
         <li>🎨 Crafting solutions with a touch of creativity.</li>
         <li>📫 Reach out via Gmail: <a href="mailto:eshatrahman137173@gmail.com">eshatrahman137173@gmail.com</a></li>
+        <li>🤝 Open to AI/ML internships, research opportunities, and meaningful collaborations</li>
         <li>😄 Pronouns: eshat</li>
         <li>⚡ Fun fact: chin tapak dam dam ...</li>
       </ul>
