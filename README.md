@@ -3,9 +3,7 @@
 # Hi there! Welcome to Eshat's GitHub profile! 👋
 
   Code & Curiosity 🚀 | Creativity 🎨
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eshat69&label=Profile+views&color=0e75b6&style=flat&base=2500" alt="eshat69" />
-</p>
+
           
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]( https://github.com/eshat69)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]( https://www.linkedin.com/in/eshat-rahman-b18516154/)
