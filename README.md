@@ -100,22 +100,25 @@
   </tr>
 </table>
 
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
-<div align="left">
-  <!-- <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0;"> -->
-    <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/> 
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=eshat69&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-    <!-- Top Languages -->
-    <!-- Top Contributed Repos -->
-  </div>
 </div>
 <!-- Line break for separation -->
-<img src="./assets/tech-stack.svg" alt="Tech Stack Orbit" width="700"/>
+<img src="./assets/tech-stack.svg" alt="Tech Stack Orbit" width="800"/>
 
-<img src="./assets/object_detection_flow.svg" alt="Tech Stack Orbit" width="700"/>
+<img src="./assets/object_detection_flow.svg" alt="Tech Stack Orbit" width="800"/>
   <!-- GitHub Star Badge -->
   <p align="center">
     <a href="https://stars.github.com/profiles/eshat69/">
