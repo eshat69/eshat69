@@ -1,0 +1,523 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1700 540" width="1700" height="540" role="img" aria-labelledby="svg-title svg-description" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplMzg4NGZmNy1mNDk2LTRiYmYtODA3ZS0wZWY1ZWQyZmJmMzMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGbgiye2FCx2v8Ol3hHmzicAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiYzIxNjVjMi01NGFlLTQ3MTctYjI2NC05ODk5Y2MwZmY5MWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNod08wA0p7iUcCLPTvg6OxtgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg6tFwUZ+zt5eEhqYP+5ROBROdBdQmDxgVR9pck+kg6F6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaKXdg/2+g3SYinnEQNerTyUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCM6yzseD0C58rVIkDA9PKPhho3edz3LYDsO2b+nJzcdGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjPZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmUzODg0ZmY3LWY0OTYtNGJiZi04MDdlLTBlZjVlZDJmYmYzMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjVjMzJhODM1LTQ5YjctNDViYS1hNTk0LTJkMjE5NjRjMWMyMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDq0XBRn7O3l4SGpg/7lE4FE50F1CYPGBVH2lyT6SDoXqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg68Z8QVBRCrfjCNHM7SnzEpSQ/EdCr+9CV3UVhcfXUZCiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg7qFVUhekcHv7LYIH2zXZIjNHUf0CHZ94kza0RDuRNcp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQLa08F12rr2plvEBNoOw6qhNKxpE5e7CWAvg5EmWR2+rpm+5M37dTAO3JIfDK5QFLpmFdpsWVgv4KfripqD+fmE=</c2pa:manifest></metadata>
+  <title id="svg-title">Object detection and localization · animated neural network forward pass
+  </title>
+  <desc id="svg-description">An animated feedforward neural network with an input image demo whose candidate region is cropped into five region features, two shared layers of six neurons each, a classification head with three classes, an objectness head, and a bounding box regression head. The outputs merge into candidate detections followed by thresholding and nonmaximum suppression. The drawing is illustrative, not a literal trained model.
+  </desc>
+  <defs>
+    <linearGradient id="frame-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050A14"/>
+      <stop offset="1" stop-color="#02050A"/>
+    </linearGradient>
+    <linearGradient id="canvas-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050A14"/>
+      <stop offset="1" stop-color="#02050A"/>
+    </linearGradient>
+    <radialGradient id="purple-halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8A2BE2" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#8A2BE2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyan-halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="fine-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="1" fill="#20354A"/>
+    </pattern>
+    <linearGradient id="accent-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset=".35" stop-color="#008CFF"/>
+      <stop offset=".7" stop-color="#8A2BE2"/>
+      <stop offset="1" stop-color="#FF3CAC"/>
+    </linearGradient>
+  <linearGradient id="scene-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1E3A"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+    <clipPath id="demo-clip"><rect width="262" height="170" rx="6"/></clipPath>
+    <clipPath id="crop-clip"><rect width="80" height="80" rx="5"/></clipPath>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L7 4 L0 8 Z" fill="#bb91b5"/></marker>
+    <g id="car-shape">
+      <rect x="0" y="22" width="110" height="24" rx="8" fill="#16385C"/>
+      <path d="M20 22 L34 4 L80 4 L94 22 Z" fill="#1B4673"/>
+      <path d="M28 22 L38 9 L55 9 L55 22 Z M60 9 L77 9 L87 22 L60 22 Z" fill="#0A1A33"/>
+      <circle cx="102" cy="32" r="3" fill="#00E5FF" opacity=".85"/>
+      <circle cx="26" cy="46" r="9" fill="#050A14" stroke="#7F94AA" stroke-width="2"/>
+      <circle cx="86" cy="46" r="9" fill="#050A14" stroke="#7F94AA" stroke-width="2"/>
+      <circle cx="26" cy="46" r="3" fill="#3A4C60"/><circle cx="86" cy="46" r="3" fill="#3A4C60"/>
+    </g>
+  </defs>
+  <style>
+    text{font-family:'Courier New',Consolas,monospace}
+    .title{fill:#EAF6FF;font-size:15px;letter-spacing:.15px}
+    .muted{fill:#8FA8C2;font-size:11px}
+    .layer-title{fill:#A9BFD6;font-size:12px;font-weight:bold}
+    .lbl{fill:#D6E6F5;font-size:12px}
+    .lbl-olive{fill:#9A9A12}
+    .small{fill:#A9BFD6;font-size:10.5px}
+    .cap{fill:#8FA8C2;font-size:10.5px;font-weight:bold;letter-spacing:.45px}
+    .wire{fill:none;stroke:#bb91b5;stroke-width:1;opacity:.34}
+    .wire-head{fill:none;stroke:#bb91b5;stroke-width:1;opacity:.34}
+    .wire-amber{stroke:#F59E0B;opacity:.5}
+    .link{fill:none;stroke:#bb91b5;stroke-width:1.5;opacity:.62}
+    .link-amber{stroke:#F59E0B;opacity:.75}
+    .flow{fill:none;stroke:#00E5FF;stroke-width:2.3;stroke-linecap:round;stroke-dasharray:.09 .91;opacity:0;animation:travel 8s linear infinite;filter:drop-shadow(0 0 2px currentColor)}
+    .flow-class{stroke:#00E5FF}
+    .flow-obj{stroke:#8A2BE2}
+    .flow-box{stroke:#F59E0B}
+    .node{fill:#050A14;stroke:#9A9A12;stroke-width:1.8;transform-box:fill-box;transform-origin:center;animation:ignite 8s ease-in-out infinite}
+    .node-class{stroke:#9A9A12;animation-name:ignite}
+    .node-obj{stroke:#9A9A12;animation-name:ignite}
+    .node-box{stroke:#9A9A12;animation-name:ignite}
+    .result-glow{animation:resultFlash 8s ease-in-out infinite}
+    @keyframes travel{0%,3%{stroke-dashoffset:1;opacity:0}5%{opacity:1}19%{stroke-dashoffset:0;opacity:1}20%,100%{stroke-dashoffset:0;opacity:0}}
+    @keyframes ignite{0%,2%,100%{fill:#050A14;filter:none}6%{fill:#A8A810;filter:drop-shadow(0 0 5px #A8A810)}16%{fill:#5A5A00;filter:none}24%{fill:#050A14}}
+    @keyframes resultFlash{0%,73%,100%{opacity:.35}78%,93%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.flow,.node,.result-glow{animation:none!important}.result-glow{opacity:1}}
+      .demo-scan{transform:translate(34px,72px);animation:scan 8s ease-in-out infinite}
+    .demo-prop{opacity:.3;animation:propFade 8s linear infinite}
+    .demo-det{animation:detReveal 8s ease-in-out infinite}
+    .demo-bar{transform-box:fill-box;transform-origin:50% 100%;animation:barsRise 8s ease-in-out infinite}
+    @keyframes scan{0%{transform:translate(150px,40px);opacity:0}1%{opacity:1}3%{transform:translate(34px,72px)}22%{transform:translate(34px,72px);opacity:1}30%,100%{transform:translate(34px,72px);opacity:0}}
+    @keyframes propFade{0%,70%{opacity:.3}78%,93%{opacity:0}100%{opacity:.3}}
+    @keyframes detReveal{0%,73%{opacity:0}78%,93%{opacity:1}98%,100%{opacity:0}}
+    @keyframes barsRise{0%,2%{transform:scaleY(.1);opacity:.3}7%{transform:scaleY(1);opacity:1}30%,92%{transform:scaleY(1);opacity:.55}100%{transform:scaleY(.1);opacity:.3}}
+    @media(prefers-reduced-motion:reduce){.demo-scan,.demo-bar,.demo-prop{animation:none!important}.demo-det{animation:none!important;opacity:1}}
+  </style>
+  <rect x="1" y="1" width="1698" height="538" rx="15" fill="#02050A" stroke="#20354A"/>
+ 
+  <text x="81" y="30" class="title">
+  </text>
+  <text x="1676" y="29" class="muted" text-anchor="end">
+  </text>
+  <rect x="18" y="48" width="1664" height="474" rx="10" fill="url(#canvas-bg)" stroke="#20354A"/>
+  <rect x="19" y="49" width="1662" height="472" rx="9" fill="url(#fine-grid)"/>
+  <rect x="19" y="48" width="1661" height="2" rx="1" fill="url(#accent-line)" opacity=".85"/>
+  <g id="network" transform="translate(300 0)">
+  <text x="148" y="88" class="cap" text-anchor="middle">INPUT FEATURES
+  </text>
+  <text x="355" y="88" class="cap" text-anchor="middle">HIDDEN LAYER 1
+  </text>
+  <text x="550" y="88" class="cap" text-anchor="middle">HIDDEN LAYER 2
+  </text>
+  <rect x="87" y="109" width="121" height="315" rx="12" fill="#08111F" stroke="#162F0B"/>
+  <rect x="294" y="109" width="122" height="315" rx="12" fill="#08111F" stroke="#162F0B"/>
+  <rect x="489" y="109" width="122" height="315" rx="12" fill="#08111F" stroke="#162F0B"/>
+  <rect x="673" y="96" width="320" height="130" rx="12" fill="#0A1A33" stroke="#008CFF"/>
+  <rect x="673" y="240" width="320" height="77" rx="12" fill="#1A1038" stroke="#AB6E07"/>
+  <rect x="673" y="331" width="320" height="153" rx="12" fill="#1F1606" stroke="#F59E0B"/>
+  <text x="693" y="115" class="cap">CLASSIFICATION  ·  what object?
+  </text>
+  <text x="693" y="259" class="cap">OBJECTNESS  ·  is something there?
+  </text>
+  <text x="693" y="350" class="cap">LOCALIZATION  ·  where is it?
+  </text>
+  <rect x="1023" y="145" width="137" height="244" rx="12" fill="#08111F" stroke="#20354A"/>
+  <rect x="1191" y="145" width="169" height="244" rx="12" fill="#08111F" stroke="#20354A"/>
+  <text x="1091" y="168" class="cap" text-anchor="middle">DECODE
+  </text>
+  <text x="1276" y="168" class="cap" text-anchor="middle">DETECTIONS
+  </text>
+  <path d="M148 182 L355 161" class="wire"/>
+  <path d="M148 182 L355 203" class="wire"/>
+  <path d="M148 182 L355 245" class="wire"/>
+  <path d="M148 182 L355 287" class="wire"/>
+  <path d="M148 182 L355 329" class="wire"/>
+  <path d="M148 182 L355 371" class="wire"/>
+  <path d="M148 224 L355 161" class="wire"/>
+  <path d="M148 224 L355 203" class="wire"/>
+  <path d="M148 224 L355 245" class="wire"/>
+  <path d="M148 224 L355 287" class="wire"/>
+  <path d="M148 224 L355 329" class="wire"/>
+  <path d="M148 224 L355 371" class="wire"/>
+  <path d="M148 266 L355 161" class="wire"/>
+  <path d="M148 266 L355 203" class="wire"/>
+  <path d="M148 266 L355 245" class="wire"/>
+  <path d="M148 266 L355 287" class="wire"/>
+  <path d="M148 266 L355 329" class="wire"/>
+  <path d="M148 266 L355 371" class="wire"/>
+  <path d="M148 308 L355 161" class="wire"/>
+  <path d="M148 308 L355 203" class="wire"/>
+  <path d="M148 308 L355 245" class="wire"/>
+  <path d="M148 308 L355 287" class="wire"/>
+  <path d="M148 308 L355 329" class="wire"/>
+  <path d="M148 308 L355 371" class="wire"/>
+  <path d="M148 350 L355 161" class="wire"/>
+  <path d="M148 350 L355 203" class="wire"/>
+  <path d="M148 350 L355 245" class="wire"/>
+  <path d="M148 350 L355 287" class="wire"/>
+  <path d="M148 350 L355 329" class="wire"/>
+  <path d="M148 350 L355 371" class="wire"/>
+  <path d="M355 161 L550 161" class="wire"/>
+  <path d="M355 161 L550 203" class="wire"/>
+  <path d="M355 161 L550 245" class="wire"/>
+  <path d="M355 161 L550 287" class="wire"/>
+  <path d="M355 161 L550 329" class="wire"/>
+  <path d="M355 161 L550 371" class="wire"/>
+  <path d="M355 203 L550 161" class="wire"/>
+  <path d="M355 203 L550 203" class="wire"/>
+  <path d="M355 203 L550 245" class="wire"/>
+  <path d="M355 203 L550 287" class="wire"/>
+  <path d="M355 203 L550 329" class="wire"/>
+  <path d="M355 203 L550 371" class="wire"/>
+  <path d="M355 245 L550 161" class="wire"/>
+  <path d="M355 245 L550 203" class="wire"/>
+  <path d="M355 245 L550 245" class="wire"/>
+  <path d="M355 245 L550 287" class="wire"/>
+  <path d="M355 245 L550 329" class="wire"/>
+  <path d="M355 245 L550 371" class="wire"/>
+  <path d="M355 287 L550 161" class="wire"/>
+  <path d="M355 287 L550 203" class="wire"/>
+  <path d="M355 287 L550 245" class="wire"/>
+  <path d="M355 287 L550 287" class="wire"/>
+  <path d="M355 287 L550 329" class="wire"/>
+  <path d="M355 287 L550 371" class="wire"/>
+  <path d="M355 329 L550 161" class="wire"/>
+  <path d="M355 329 L550 203" class="wire"/>
+  <path d="M355 329 L550 245" class="wire"/>
+  <path d="M355 329 L550 287" class="wire"/>
+  <path d="M355 329 L550 329" class="wire"/>
+  <path d="M355 329 L550 371" class="wire"/>
+  <path d="M355 371 L550 161" class="wire"/>
+  <path d="M355 371 L550 203" class="wire"/>
+  <path d="M355 371 L550 245" class="wire"/>
+  <path d="M355 371 L550 287" class="wire"/>
+  <path d="M355 371 L550 329" class="wire"/>
+  <path d="M355 371 L550 371" class="wire"/>
+  <path d="M148 182 L355 161" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 182 L355 203" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 182 L355 245" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 182 L355 287" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 182 L355 329" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 182 L355 371" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 224 L355 161" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 224 L355 203" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 224 L355 245" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 224 L355 287" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 224 L355 329" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 224 L355 371" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 266 L355 161" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 266 L355 203" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 266 L355 245" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 266 L355 287" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 266 L355 329" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 266 L355 371" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 308 L355 161" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 308 L355 203" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 308 L355 245" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 308 L355 287" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 308 L355 329" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 308 L355 371" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 350 L355 161" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 350 L355 203" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 350 L355 245" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 350 L355 287" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 350 L355 329" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M148 350 L355 371" class="flow" pathLength="1" style="animation-delay:0s"/>
+  <path d="M355 161 L550 161" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 161 L550 203" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 161 L550 245" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 161 L550 287" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 161 L550 329" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 161 L550 371" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 203 L550 161" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 203 L550 203" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 203 L550 245" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 203 L550 287" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 203 L550 329" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 203 L550 371" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 245 L550 161" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 245 L550 203" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 245 L550 245" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 245 L550 287" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 245 L550 329" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 245 L550 371" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 287 L550 161" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 287 L550 203" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 287 L550 245" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 287 L550 287" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 287 L550 329" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 287 L550 371" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 329 L550 161" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 329 L550 203" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 329 L550 245" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 329 L550 287" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 329 L550 329" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 329 L550 371" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 371 L550 161" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 371 L550 203" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 371 L550 245" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 371 L550 287" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 371 L550 329" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M355 371 L550 371" class="flow" pathLength="1" style="animation-delay:1.55s"/>
+  <path d="M550 161 L755 159" class="wire-head"/>
+  <path d="M550 161 L755 159" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 161 L755 184" class="wire-head"/>
+  <path d="M550 161 L755 184" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 161 L755 209" class="wire-head"/>
+  <path d="M550 161 L755 209" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 203 L755 159" class="wire-head"/>
+  <path d="M550 203 L755 159" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 203 L755 184" class="wire-head"/>
+  <path d="M550 203 L755 184" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 203 L755 209" class="wire-head"/>
+  <path d="M550 203 L755 209" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 245 L755 159" class="wire-head"/>
+  <path d="M550 245 L755 159" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 245 L755 184" class="wire-head"/>
+  <path d="M550 245 L755 184" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 245 L755 209" class="wire-head"/>
+  <path d="M550 245 L755 209" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 287 L755 159" class="wire-head"/>
+  <path d="M550 287 L755 159" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 287 L755 184" class="wire-head"/>
+  <path d="M550 287 L755 184" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 287 L755 209" class="wire-head"/>
+  <path d="M550 287 L755 209" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 329 L755 159" class="wire-head"/>
+  <path d="M550 329 L755 159" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 329 L755 184" class="wire-head"/>
+  <path d="M550 329 L755 184" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 329 L755 209" class="wire-head"/>
+  <path d="M550 329 L755 209" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 371 L755 159" class="wire-head"/>
+  <path d="M550 371 L755 159" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 371 L755 184" class="wire-head"/>
+  <path d="M550 371 L755 184" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 371 L755 209" class="wire-head"/>
+  <path d="M550 371 L755 209" class="flow flow-class" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 161 L755 286" class="wire-head"/>
+  <path d="M550 161 L755 286" class="flow flow-obj" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 203 L755 286" class="wire-head"/>
+  <path d="M550 203 L755 286" class="flow flow-obj" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 245 L755 286" class="wire-head"/>
+  <path d="M550 245 L755 286" class="flow flow-obj" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 287 L755 286" class="wire-head"/>
+  <path d="M550 287 L755 286" class="flow flow-obj" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 329 L755 286" class="wire-head"/>
+  <path d="M550 329 L755 286" class="flow flow-obj" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 371 L755 286" class="wire-head"/>
+  <path d="M550 371 L755 286" class="flow flow-obj" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 161 L755 375" class="wire-head wire-amber"/>
+  <path d="M550 161 L755 375" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 161 L755 399" class="wire-head wire-amber"/>
+  <path d="M550 161 L755 399" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 161 L755 423" class="wire-head wire-amber"/>
+  <path d="M550 161 L755 423" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 161 L755 447" class="wire-head wire-amber"/>
+  <path d="M550 161 L755 447" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 203 L755 375" class="wire-head wire-amber"/>
+  <path d="M550 203 L755 375" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 203 L755 399" class="wire-head wire-amber"/>
+  <path d="M550 203 L755 399" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 203 L755 423" class="wire-head wire-amber"/>
+  <path d="M550 203 L755 423" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 203 L755 447" class="wire-head wire-amber"/>
+  <path d="M550 203 L755 447" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 245 L755 375" class="wire-head wire-amber"/>
+  <path d="M550 245 L755 375" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 245 L755 399" class="wire-head wire-amber"/>
+  <path d="M550 245 L755 399" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 245 L755 423" class="wire-head wire-amber"/>
+  <path d="M550 245 L755 423" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 245 L755 447" class="wire-head wire-amber"/>
+  <path d="M550 245 L755 447" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 287 L755 375" class="wire-head wire-amber"/>
+  <path d="M550 287 L755 375" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 287 L755 399" class="wire-head wire-amber"/>
+  <path d="M550 287 L755 399" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 287 L755 423" class="wire-head wire-amber"/>
+  <path d="M550 287 L755 423" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 287 L755 447" class="wire-head wire-amber"/>
+  <path d="M550 287 L755 447" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 329 L755 375" class="wire-head wire-amber"/>
+  <path d="M550 329 L755 375" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 329 L755 399" class="wire-head wire-amber"/>
+  <path d="M550 329 L755 399" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 329 L755 423" class="wire-head wire-amber"/>
+  <path d="M550 329 L755 423" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 329 L755 447" class="wire-head wire-amber"/>
+  <path d="M550 329 L755 447" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 371 L755 375" class="wire-head wire-amber"/>
+  <path d="M550 371 L755 375" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 371 L755 399" class="wire-head wire-amber"/>
+  <path d="M550 371 L755 399" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 371 L755 423" class="wire-head wire-amber"/>
+  <path d="M550 371 L755 423" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M550 371 L755 447" class="wire-head wire-amber"/>
+  <path d="M550 371 L755 447" class="flow flow-box" pathLength="1" style="animation-delay:3.12s"/>
+  <path d="M826 159 L1070 266" class="link"/>
+  <path d="M826 184 L1070 266" class="link"/>
+  <path d="M826 209 L1070 266" class="link"/>
+  <path d="M826 286 L1070 266" class="link"/>
+  <path d="M826 375 L1070 266" class="link link-amber"/>
+  <path d="M826 399 L1070 266" class="link link-amber"/>
+  <path d="M826 423 L1070 266" class="link link-amber"/>
+  <path d="M826 447 L1070 266" class="link link-amber"/>
+  <path d="M826 184 L1070 266" class="flow flow-class" pathLength="1" style="animation-delay:4.72s"/>
+  <path d="M826 286 L1070 266" class="flow flow-obj" pathLength="1" style="animation-delay:4.72s"/>
+  <path d="M826 411 L1070 266" class="flow flow-box" pathLength="1" style="animation-delay:4.72s"/>
+  <path d="M1160 266 L1191 266" class="link"/>
+  <path d="M1160 266 L1191 266" class="flow" pathLength="1" style="animation-delay:6.0s"/>
+  <circle cx="148" cy="182" r="8" class="node" style="animation-delay:0s"/>
+  <circle cx="148" cy="224" r="8" class="node" style="animation-delay:0s"/>
+  <circle cx="148" cy="266" r="8" class="node" style="animation-delay:0s"/>
+  <circle cx="148" cy="308" r="8" class="node" style="animation-delay:0s"/>
+  <circle cx="148" cy="350" r="8" class="node" style="animation-delay:0s"/>
+  <circle cx="355" cy="161" r="8" class="node" style="animation-delay:1.55s"/>
+  <circle cx="355" cy="203" r="8" class="node" style="animation-delay:1.55s"/>
+  <circle cx="355" cy="245" r="8" class="node" style="animation-delay:1.55s"/>
+  <circle cx="355" cy="287" r="8" class="node" style="animation-delay:1.55s"/>
+  <circle cx="355" cy="329" r="8" class="node" style="animation-delay:1.55s"/>
+  <circle cx="355" cy="371" r="8" class="node" style="animation-delay:1.55s"/>
+  <circle cx="550" cy="161" r="8" class="node" style="animation-delay:3.12s"/>
+  <circle cx="550" cy="203" r="8" class="node" style="animation-delay:3.12s"/>
+  <circle cx="550" cy="245" r="8" class="node" style="animation-delay:3.12s"/>
+  <circle cx="550" cy="287" r="8" class="node" style="animation-delay:3.12s"/>
+  <circle cx="550" cy="329" r="8" class="node" style="animation-delay:3.12s"/>
+  <circle cx="550" cy="371" r="8" class="node" style="animation-delay:3.12s"/>
+  <circle cx="755" cy="159" r="8" class="node node-class" style="animation-delay:4.72s"/>
+  <circle cx="755" cy="184" r="8" class="node node-class" style="animation-delay:4.72s"/>
+  <circle cx="755" cy="209" r="8" class="node node-class" style="animation-delay:4.72s"/>
+  <circle cx="755" cy="286" r="8" class="node node-obj" style="animation-delay:4.72s"/>
+  <circle cx="755" cy="375" r="8" class="node node-box" style="animation-delay:4.72s"/>
+  <circle cx="755" cy="399" r="8" class="node node-box" style="animation-delay:4.72s"/>
+  <circle cx="755" cy="423" r="8" class="node node-box" style="animation-delay:4.72s"/>
+  <circle cx="755" cy="447" r="8" class="node node-box" style="animation-delay:4.72s"/>
+  <text x="122" y="186" class="lbl" text-anchor="end">x1
+  </text>
+  <text x="122" y="228" class="lbl" text-anchor="end">x2
+  </text>
+  <text x="122" y="270" class="lbl" text-anchor="end">x3
+  </text>
+  <text x="122" y="312" class="lbl" text-anchor="end">x4
+  </text>
+  <text x="122" y="354" class="lbl" text-anchor="end">x5
+  </text>
+  <text x="776" y="163" class="lbl lbl-olive">p(A)
+  </text>
+  <text x="776" y="188" class="lbl lbl-olive">p(B)
+  </text>
+  <text x="776" y="213" class="lbl lbl-olive">p(C)
+  </text>
+  <text x="776" y="290" class="lbl">p(obj)
+  </text>
+  <text x="776" y="379" class="lbl">cx
+  </text>
+  <text x="776" y="403" class="lbl">cy
+  </text>
+  <text x="776" y="427" class="lbl">w
+  </text>
+  <text x="776" y="451" class="lbl">h
+  </text>
+  <circle cx="1091" cy="266" r="21" fill="#0A1426" stroke="#00E5FF" stroke-width="1.4"/>
+  <text x="1091" y="271" class="title" text-anchor="middle">Σ
+  </text>
+  <text x="1091" y="309" class="small" text-anchor="middle">class + score
+  </text>
+  <text x="1091" y="325" class="small" text-anchor="middle">+ bounding box
+  </text>
+  <text x="1091" y="351" class="small" text-anchor="middle">score = p(obj)
+  </text>
+  <text x="1091" y="367" class="small" text-anchor="middle">× p(class)
+  </text>
+  <g class="result-glow" style="animation-delay:0s">
+    <rect x="1221" y="193" width="104" height="76" rx="6" fill="#140F2B" stroke="#8A2BE2"/>
+    <rect x="1238" y="204" width="47" height="48" rx="3" fill="none" stroke="#00E5FF" stroke-width="2"/>
+    <rect x="1270" y="212" width="39" height="33" rx="3" fill="none" stroke="#F59E0B" stroke-width="1.7"/>
+  </g>
+  <text x="1276" y="295" class="small" text-anchor="middle">score threshold
+  </text>
+  <text x="1276" y="314" class="small" text-anchor="middle">+ NMS
+  </text>
+  <text x="1276" y="346" class="small" text-anchor="middle">class · score
+  </text>
+  <text x="1276" y="363" class="small" text-anchor="middle">box (cx,cy,w,h)
+  </text>
+  <text x="148" y="458" class="layer-title" text-anchor="middle">5 region features
+  </text>
+  <text x="355" y="458" class="layer-title" text-anchor="middle">6 neurons
+  </text>
+  <text x="550" y="458" class="layer-title" text-anchor="middle">6 neurons
+  </text>
+  <text x="1091" y="458" class="layer-title" text-anchor="middle">candidate
+  </text>
+  <text x="1276" y="458" class="layer-title" text-anchor="middle">final objects
+  </text>
+  <text x="148" y="478" class="small" text-anchor="middle">per candidate region
+  </text>
+  <text x="355" y="478" class="small" text-anchor="middle">shared features
+  </text>
+  <text x="550" y="478" class="small" text-anchor="middle">shared features
+  </text>
+  <text x="686" y="502" class="small">cyan: class
+  </text>
+  <text x="779" y="502" class="small">violet: objectness
+  </text>
+  <text x="917" y="502" class="small">amber: box
+  </text>
+</g>
+  <g id="input-demo">
+    <text x="183" y="88" class="cap" text-anchor="middle">INPUT IMAGE</text>
+    <rect x="36" y="109" width="294" height="315" rx="12" fill="#08111F" stroke="#20354A"/>
+    <g transform="translate(52 124)">
+      <g clip-path="url(#demo-clip)">
+        <rect width="262" height="170" fill="url(#scene-sky)"/>
+        <rect x="10" y="70" width="26" height="50" fill="#0F2238"/>
+        <rect x="40" y="86" width="20" height="34" fill="#0C1B2E"/>
+        <rect x="176" y="62" width="30" height="58" fill="#0F2238"/>
+        <rect x="212" y="80" width="36" height="40" fill="#0C1B2E"/>
+        <rect y="120" width="262" height="50" fill="#0A1426"/>
+        <line x1="0" y1="120" x2="262" y2="120" stroke="#20354A"/>
+        <use href="#car-shape" transform="translate(40 78)"/>
+        <g transform="translate(196 84)">
+          <circle cx="8" cy="6" r="6" fill="#bb91b5" opacity=".9"/>
+          <rect x="1" y="14" width="14" height="26" rx="5" fill="#bb91b5" opacity=".6"/>
+          <rect x="2" y="38" width="5" height="22" rx="2" fill="#bb91b5" opacity=".5"/>
+          <rect x="9" y="38" width="5" height="22" rx="2" fill="#bb91b5" opacity=".5"/>
+        </g>
+        <g fill="none" stroke="#bb91b5" stroke-width="1" stroke-dasharray="3 3">
+          <rect class="demo-prop" x="20" y="60" width="110" height="66"/>
+          <rect class="demo-prop" x="46" y="82" width="120" height="62"/>
+          <rect class="demo-prop" x="176" y="70" width="50" height="80"/>
+          <rect class="demo-prop" x="190" y="86" width="30" height="64"/>
+        </g>
+        <rect class="demo-scan" width="124" height="68" rx="3" fill="#bb91b5" fill-opacity=".1" stroke="#bb91b5" stroke-width="1.5" stroke-dasharray="5 4"/>
+        <g class="demo-det">
+          <rect x="34" y="72" width="124" height="68" rx="3" fill="none" stroke="#00E5FF" stroke-width="2"/>
+          <rect x="34" y="60" width="50" height="12" fill="#00E5FF"/>
+          <text x="38" y="69" font-size="9" font-weight="bold" fill="#050A14">A 0.94</text>
+          <rect x="186" y="78" width="32" height="70" rx="3" fill="none" stroke="#F59E0B" stroke-width="2"/>
+          <rect x="186" y="66" width="50" height="12" fill="#F59E0B"/>
+          <text x="190" y="75" font-size="9" font-weight="bold" fill="#050A14">B 0.87</text>
+        </g>
+        <text x="8" y="15" font-size="9" fill="#8FA8C2">input.jpg</text>
+      </g>
+      <rect width="262" height="170" rx="6" fill="none" stroke="#20354A"/>
+    </g>
+    <text x="92" y="314" font-size="9" fill="#bb91b5" text-anchor="middle">candidate crop</text>
+    <text x="238" y="314" font-size="9" fill="#bb91b5" text-anchor="middle">region features</text>
+    <g transform="translate(52 322)">
+      <g clip-path="url(#crop-clip)">
+        <rect width="80" height="80" fill="#0B1E3A"/>
+        <rect y="50" width="80" height="30" fill="#0A1426"/>
+        <use href="#car-shape" transform="translate(7 17) scale(.6)"/>
+      </g>
+      <rect width="80" height="80" rx="5" fill="none" stroke="#bb91b5" stroke-dasharray="5 4"/>
+    </g>
+    <path d="M138 362 L162 362" stroke="#bb91b5" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+      <rect class="demo-bar" x="178" y="352" width="16" height="46" rx="2" fill="#9A9A12" style="animation-delay:0.00s"/>
+      <text x="186" y="414" font-size="9" fill="#8FA8C2" text-anchor="middle">x1</text>
+      <rect class="demo-bar" x="204" y="370" width="16" height="28" rx="2" fill="#9A9A12" style="animation-delay:0.06s"/>
+      <text x="212" y="414" font-size="9" fill="#8FA8C2" text-anchor="middle">x2</text>
+      <rect class="demo-bar" x="230" y="340" width="16" height="58" rx="2" fill="#9A9A12" style="animation-delay:0.12s"/>
+      <text x="238" y="414" font-size="9" fill="#8FA8C2" text-anchor="middle">x3</text>
+      <rect class="demo-bar" x="256" y="362" width="16" height="36" rx="2" fill="#9A9A12" style="animation-delay:0.18s"/>
+      <text x="264" y="414" font-size="9" fill="#8FA8C2" text-anchor="middle">x4</text>
+      <rect class="demo-bar" x="282" y="376" width="16" height="22" rx="2" fill="#9A9A12" style="animation-delay:0.24s"/>
+      <text x="290" y="414" font-size="9" fill="#8FA8C2" text-anchor="middle">x5</text>
+    <path d="M334 266 L383 266" stroke="#bb91b5" stroke-width="1.5" stroke-dasharray="4 3" fill="none" marker-end="url(#arr)"/>
+    <text x="358" y="258" font-size="9" fill="#bb91b5" text-anchor="middle">feed</text>
+    <text x="183" y="458" class="layer-title" text-anchor="middle">image + candidate region</text>
+    <text x="183" y="478" class="small" text-anchor="middle">crop → 5 region features</text>
+  </g>
+</svg>
