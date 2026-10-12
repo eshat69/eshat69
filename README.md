@@ -116,9 +116,9 @@
 
 </div>
 <!-- Line break for separation -->
-<img src="./assets/tech-stack.svg" alt="Tech Stack Orbit" width="800"/>
+<img src="./assets/tech-stack.svg" alt="Tech Stack Orbit" width="820"/>
 
-<img src="./assets/object_detection_flow.svg" alt="Tech Stack Orbit" width="800"/>
+<img src="./assets/object_detection_flow.svg" alt="Tech Stack Orbit" width="820"/>
   <!-- GitHub Star Badge -->
   <p align="center">
     <a href="https://stars.github.com/profiles/eshat69/">
