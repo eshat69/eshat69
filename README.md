@@ -103,7 +103,7 @@
 
 
 <div align="left">
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0;">
+  <!-- <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0;"> -->
     <!-- Streak Stats -->
     <img src="https://streak-stats.demolab.com/?user=eshat69&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/> 
     <!-- GitHub Stats -->
